@@ -1,6 +1,6 @@
-name: slack-user-bot
+name: flank-slack-bot
 
-description: Make a user act like a bot in slack
+description: Send slack notifications about flank releases
 author: Flank
 
 branding:
